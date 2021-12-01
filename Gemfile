@@ -27,6 +27,9 @@ gem 'devise', '~> 4.8'
 gem 'activeadmin', '~> 2.9'
 gem 'inherited_resources'
 
+#adding active skin theme from github repo :
+gem 'active_skin'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
